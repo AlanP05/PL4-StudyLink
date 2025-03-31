@@ -1,2 +1,7 @@
 # PL4-StudyLink
-Projeto para o Pré-Lab4
+## Nome do projeto
+- StudyLink
+## Objetivo
+- Criar uma plataforma web para conectar estudantes com grupos de estudo por tema, matéria e localização, incentivando o aprendizado colaborativo.
+## Tecnologias
+- HTML, CSS, JavaScript
